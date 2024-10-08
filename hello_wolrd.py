@@ -5,14 +5,14 @@ import matplotlib.pyplot as plt
  
 st.write(
     """
-    # Haloo Semuanya
-    Ini adalah web pertamaku
+    # Selamat Tidur Sayang Aku Cantiku yang suka rewel ini
     """
 )
-
+'''
 st.write('''
 kita mempunyai sebuah fungsi yaitu:
 ''')
+
 
 st.latex(r'y=x^2+2x+1')
 st.write('''
@@ -30,3 +30,4 @@ plt.title("Plot Fungsi diatas")
 plt.show()
 
 st.pyplot(plt)
+'''
