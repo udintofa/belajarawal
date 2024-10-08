@@ -29,4 +29,4 @@ plt.plot(x, f(x))
 plt.title("Plot Fungsi diatas")
 plt.show()
 
-st.show(plt.show())
+st.pyplot(plt)
