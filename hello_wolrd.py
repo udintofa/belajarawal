@@ -28,3 +28,5 @@ plt.figure(figsize=(12, 5))
 plt.plot(x, f(x))
 plt.title("Plot Fungsi diatas")
 plt.show()
+
+st.show(plt.show())
