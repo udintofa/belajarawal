@@ -5,7 +5,8 @@ import matplotlib.pyplot as plt
  
 st.write(
     """
-    # Selamat Tidur Sayang Aku Cantiku yang sudah jarang rewel ini
+    # Hallo Semuanyaa.....!!!
+    ini adalah latihan membuat web pertamaku
     """
 )
 
