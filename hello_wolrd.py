@@ -8,7 +8,8 @@ st.write(
     # Selamat Tidur Sayang Aku Cantiku yang suka rewel ini
     """
 )
-'''
+
+"""
 st.write('''
 kita mempunyai sebuah fungsi yaitu:
 ''')
@@ -30,4 +31,4 @@ plt.title("Plot Fungsi diatas")
 plt.show()
 
 st.pyplot(plt)
-'''
+"""
