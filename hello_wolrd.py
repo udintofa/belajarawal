@@ -8,7 +8,12 @@ st.write(
     """
 )
 
-st.text('Halo, bisa kerjakan soal berikut yaa....')
+st.write(
+ """
+ Kamu sayang aku gasi? kalau emang sayang ya didukung belajar terus.
+ Aku gasuka kamu rewel terus yaa, tapi kadang juga suka kangen rewelan dari kamu si. Tapi ya gimana ya, jangan banyak-banyak rewelnya.
+ Kalau kamu tetep rewel, nanti kamu aku suruh buat ngafalin rumus di bawah ini....!
+ """)
 
 st.latex(r"""
     \sum_{k=0}^{n-1} ar^k =
